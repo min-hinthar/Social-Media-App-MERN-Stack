@@ -10,6 +10,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import authRoutes from './routes/auth.js';
 import { register } from './controllers/auth.js';
+import { verify } from 'crypto';
+import { verifyToken } from './middleware/auth.js';
 
 // CONFIGURATIONS - Middleware, Packages
 const __filename = fileURLToPath(import.meta.url);
