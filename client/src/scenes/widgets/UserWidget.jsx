@@ -106,7 +106,7 @@ const UserWidget = ({ userId, picturePath }) => {
                 <Box p='1rem 0'>
                     <FlexBetween mb='0.5rem'>
                         <Typography color={medium}>
-                            Your PROFILE was viewed by your fellow REPUBLICANS!
+                            Your PROFILE was viewed by your fellow GUARDIANS!
                         </Typography>
                         <Typography color={main} fontWeight='500'>
                             {viewedProfile}
