@@ -1,5 +1,5 @@
 import { Box, Typography, useTheme, useMediaQuery } from "@mui/material";
-import { Form } from "./Form";
+import Form from "./Form";
 
 
 const LoginPage = () => {
@@ -18,7 +18,7 @@ const LoginPage = () => {
                         fontSize='32px'
                         color='primary'
                     >
-                        The REPUBLIC
+                        REPUBLIC
                     </Typography>
             </Box>
             <Box
@@ -29,14 +29,12 @@ const LoginPage = () => {
                 backgroundColor={theme.palette.background.alt}
             >
                 <Typography fontWeight='500' variant='h5' sx={{ mb: '1.5rem' }}>
-                Mingalar-bar! Welcome to the REPUBLIC!
+                မင်္ဂလာပါ 🙏 Welcome to the REPUBLIC!
                 </Typography>
-                    <Form>
-
-                    </Form>
+                    <Form />
             </Box>
         </Box>
     )
-}
+};
 
 export default LoginPage;
