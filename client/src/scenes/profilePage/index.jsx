@@ -55,6 +55,6 @@ const ProfilePage = () => {
           </Box>
     </Box>
   )
-}
+};
 
 export default ProfilePage;

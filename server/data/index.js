@@ -14,13 +14,13 @@ const userIds = [
 export const users = [
   {
     _id: userIds[0],
-    firstName: "Min",
-    lastName: "Khant",
+    firstName: "test",
+    lastName: "me",
     email: "aaaaaaa@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
-    picturePath: "minPP.jpg",
+    picturePath: "p11.jpeg",
     friends: [],
-    location: "Los Angeles, CA",
+    location: "San Fran, CA",
     occupation: "Software Engineer",
     viewedProfile: 14561,
     impressions: 888822,
