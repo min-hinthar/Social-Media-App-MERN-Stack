@@ -4,6 +4,8 @@
 ![Getting Started](./server/public/assets/Republic_1.jpeg)
 ![Getting Started](./server/public/assets/Republic_2.jpeg)
 
+Deployed on RENDER: https://the-republic-social-media-fe.onrender.com/
+
 -----
 
 ## Table of Contents
@@ -108,6 +110,8 @@ MIT
 -----
 
 ### Questions 
+
+Deployed on RENDER: https://the-republic-social-media-fe.onrender.com/
 
 #### GitHub Username: min-hinthar 
 
