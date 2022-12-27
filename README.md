@@ -1,8 +1,8 @@
 # Project Title [ Social-Media-App-MERN-Stack ]
 
-![Getting Started](server\public\assets\Republic_0.jpeg)
-![Getting Started](server\public\assets\Republic_1.jpeg)
-![Getting Started](server\public\assets\Republic_2.jpeg)
+![Getting Started](./server/public/assets/Republic_0.jpeg)
+![Getting Started](./server/public/assets/Republic_1.jpeg)
+![Getting Started](./server/public/assets/Republic_2.jpeg)
 
 -----
 
