@@ -28,7 +28,7 @@ const AdvertWidget = () => {
                     width='100%'
                     height='auto'
                     alt='advert'
-                    src='http://localhost:3001/assets/info4.jpeg'
+                    src='http://localhost:3001/assets/Mandalay Morning Star_LLC.jpg'
                     style={{
                         borderRadius: '0.75rem',
                         margin: '0.75rem 0'
@@ -36,14 +36,14 @@ const AdvertWidget = () => {
                 />
                 <FlexBetween>
                     <Typography color={main}>
-                        Cosmetics
+                        Mandalay Morning Star
                     </Typography>
                     <Typography color={medium}>
-                        PaulineCosmetics.com
+                        www.MandalayMorningStar.com
                     </Typography>
                 </FlexBetween>
                     <Typography color={medium} m='0.5rem 0'>
-                        Visit our website for more information about our premium skincare products!
+                        Please visit our website for more information about our premium Burmese food products imported directly from Burma!
                     </Typography>
         </WidgetWrapper>
     );
